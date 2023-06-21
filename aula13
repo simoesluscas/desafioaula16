@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Receita </title>
+        <link rel="stylesheet" href="displayflex.css"/>
+    </head>
+    <body>
+        <div class="pai" >
+           
+           <h1 class="filho"> 1</h1>
+
+           <h2 class="filho"> 2</h1>
+
+           <h3 class="filho"> 3</h1>
+            
+           <h4 class="filho"> 4</h1>
+
+           <h5 class="filho"> 5</h1>
+          
+           </div>
+           
+           
+    </body>
+
+
+</html>
